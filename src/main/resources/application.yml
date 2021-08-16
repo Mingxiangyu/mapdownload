@@ -1,0 +1,6 @@
+server:
+  port: 31020
+
+dir:
+  outputPath: F://
+  tilePath: F:\nginx-1.18.0\dist\mapData\
